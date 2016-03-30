@@ -1,7 +1,7 @@
 var Demo = react.createClass({
 	render : function() {
 		return (
-				alert ('React - działam');
+				<h1>React - działam</h1>
 			);
 	}
 })
